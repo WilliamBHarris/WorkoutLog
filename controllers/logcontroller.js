@@ -1,6 +1,7 @@
 const Express = require("express");
 const router = Express.Router();
 let validateJWT = require("../middleware/validate-jwt");
+const { LogModel } = require("../models");
 
 
 // log Create
@@ -20,7 +21,7 @@ router.post("/log", validateJWT, async (req, res) => {
   } catch (err) {
     res.status(500).json({ error: err });
   }
-  LogModel.create(logEntry);
+  // LogModel.create(logEntry);
 });
 
 router.get("/", async (req, res) => {
