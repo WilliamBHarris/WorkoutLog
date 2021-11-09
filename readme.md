@@ -1,4 +1,3 @@
-![git commands](https://user-images.githubusercontent.com/89166335/141007945-72794521-1366-48ea-95f2-98d089edeba4.png)
 ![log delete](https://user-images.githubusercontent.com/89166335/141007946-4ca2d1ed-e944-416d-9042-0db26da91687.png)
 ![log id get](https://user-images.githubusercontent.com/89166335/141007948-c3dd0c40-4739-4b93-8b3b-428bbdbeb61a.png)
 ![log put](https://user-images.githubusercontent.com/89166335/141007950-062e6941-8b00-45bc-a08f-f162f871cd41.png)
